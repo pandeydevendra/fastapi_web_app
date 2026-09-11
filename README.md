@@ -14,7 +14,7 @@ Python type hints and validation
 Easy development and testing
 Built-in support for asynchronous programming
 Project Structure
-gfastapi_web_app/
+fastapi_web_app/
 ├── .gitignore
 ├── main.py
 ├── requirements.txt
